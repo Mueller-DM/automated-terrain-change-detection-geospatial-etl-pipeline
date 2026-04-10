@@ -12,7 +12,7 @@ This script automates the extraction, transformation, and vectorization of topog
 
 ## Directory Setup
 Your working directory needs to look like this:
-```text
+
 Working_Directory/
 ├── DTM/                  # Input: Put your time-step folders here
 │   ├── Time_1/           
